@@ -1,0 +1,11 @@
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.deps.json
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.runtimeconfig.json
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.runtimeconfig.dev.json
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.dll
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.pdb
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.csprojAssemblyReference.cache
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.AssemblyInfoInputs.cache
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.AssemblyInfo.cs
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.dll
+/Users/aluno/Projects/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.pdb
